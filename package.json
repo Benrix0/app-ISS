@@ -21,6 +21,7 @@
     "@asymmetrik/ngx-leaflet": "^7.0.1",
     "@types/leaflet": "^1.7.0",
     "leaflet": "^1.7.1",
+    "leaflet.fullscreen": "^2.0.0",
     "rxjs": "~6.6.0",
     "rxjs-compat": "^6.6.7",
     "tslib": "^2.1.0",

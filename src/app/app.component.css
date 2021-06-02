@@ -1,6 +1,41 @@
 #map {
-    height: 50%;
-    width: 50%;
+    height: 60vh;
+    width: 60vh;
     padding: 0;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-top: 5vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: fit-content;
+}
+
+.first-background {
+    background-color: aqua;
+    border-radius: 50%;
+    height: 70vh;
+    width: 70vh;
+    margin: 0 auto;
+}
+
+.second-background {
+    background-color: red;
+    border-radius: 50%;
+    height: 75vh;
+    width: 75vh;
+    margin: 0 auto;
+    padding: 5vh;
+}
+
+.last-background {
+    width: 100vw;
+    height: 90vh;
+    background-color: green;
+    padding-top: 10vh;
 }
 
